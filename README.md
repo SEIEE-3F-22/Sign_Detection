@@ -5,6 +5,7 @@
     |  |——VOC_v1                   # 自制标志检测数据集_V1
     |——Inference                 # 模型推理脚本
     |  |——models                   # openvino模型
+    |  |——video                    # 目标检测测试视频
     |  |——Detection_Raspberry.py   #树莓派目标检测测试脚本
     |——Yolov5                    # Yolov5项目
     |  |——data                     # 数据集配置文件夹
