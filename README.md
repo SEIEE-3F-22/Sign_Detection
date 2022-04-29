@@ -12,5 +12,5 @@
     |  |  |——VOC_ours.yaml           #标志检测数据集配置文件
     |  |  |——coco128_ours.yaml       #coco128测试数据集配置文件
     |  |——runs                     # 训练/测试/推理结果
-    |——pt2onnx_n.ipynb           # pt模型转onnx模型
-    |——scripts_ours.sh           # 训练/测试/推理脚本
+    |  |——pt2onnx_n.ipynb           # pt模型转onnx模型
+    |  |——scripts_ours.sh           # 训练/测试/推理脚本
